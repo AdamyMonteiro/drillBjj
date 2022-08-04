@@ -152,6 +152,24 @@ a.locIcon img {
   justify-content: center;
 }
 
+a.faceIcon img {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-right: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
+a.instaIcon img {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  margin-right: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
 p {
   width: 100%;
   display: block;
