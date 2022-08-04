@@ -57,6 +57,9 @@ h1 {
   font-size: 32px;
   margin-top: 24px;
   margin-bottom: 8px;
+  border-bottom: 2px solid yellow;
+  border-left: 2px solid yellow;
+  border-radius: 50%;
 }
 
 .username {
